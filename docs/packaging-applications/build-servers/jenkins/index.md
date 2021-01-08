@@ -4,7 +4,7 @@ description: Jenkins can work together with Octopus Deploy to create releases, p
 position: 60
 ---
 
-[Jenkins](http://jenkins-ci.org/) is an extendable, open-source continuous integration server that makes build automation easy.
+[Jenkins](https://www.jenkins.io/) is an extendable, open-source continuous integration server that makes build automation easy.
 
 Using Jenkins and Octopus Deploy together, you can:
 
@@ -25,12 +25,12 @@ If you need guidance installing Jenkins for the first time, see the [Jenkins doc
 Plugins are central to expanding Jenkins' functionality, and a number of plugins are may be needed depending on the projects you are building. Before you start, you'll need to ensure the following plugins are installed and enabled.
 
 If you're building a .NET project:
-- [MSBuild Plugin](https://plugins.jenkins.io/msbuild): to compile your Visual Studio solution.
+- [MSBuild Plugin](https://plugins.jenkins.io/msbuild/): to compile your Visual Studio solution.
 
 If you're building a Java project:
-- [Maven Plugin](https://plugins.jenkins.io/maven-plugin): to compile your Java project.
+- [Maven Plugin](https://plugins.jenkins.io/maven-plugin/): to compile your Java project.
 
-Once any of the above plugins are installed, you can then search and install the [Octopus Deploy Plugin](https://plugins.jenkins.io/octopusdeploy).
+Once any of the above plugins are installed, you can then search and install the [Octopus Deploy Plugin](https://plugins.jenkins.io/octopusdeploy/).
 
 ## Configure the Octopus Deploy plugin
 

@@ -10,8 +10,8 @@ We take every reasonable effort to make Octopus Deploy secure against well-known
 
 Using an XSS attack a malicious actor could potentially trick a user's web browser into executing unintended code. For more information about XSS refer to the following:
 
-- [Cross-Site Scripting according to OWASP](https://www.owasp.org/index.php/Cross-site_Scripting_(XSS))
-- [Cross-Site Scripting Prevention Cheat Sheet](https://www.owasp.org/index.php/XSS_(Cross_Site_Scripting)_Prevention_Cheat_Sheet)
+- [Cross-Site Scripting according to OWASP](https://owasp.org/www-community/attacks/xss/)
+- [Cross-Site Scripting Prevention Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Cross_Site_Scripting_Prevention_Cheat_Sheet.html)
 
 ## Does Octopus Deploy prevent XSS attacks?
 
